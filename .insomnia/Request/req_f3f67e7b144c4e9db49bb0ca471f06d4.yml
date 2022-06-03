@@ -1,0 +1,25 @@
+_id: req_f3f67e7b144c4e9db49bb0ca471f06d4
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1652197681340
+created: 1652194798555
+url: http://localhost/BdkEsb.TestStub.PVV/api/testset
+name: PVV Testset
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651627647871.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_d1084b3ffebf423b8bfba87d425742f8
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1652194748915
+created: 1651060647694
+url: http://localhost/BdkEsb.TestStub.PVV/api/endpoint
+name: PVV Endpoint
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651060647694
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

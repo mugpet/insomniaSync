@@ -1,0 +1,25 @@
+_id: req_da960fe0921b40a0a26f1a0e92e5bf4f
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1654076860002
+created: 1654072269434
+url: http://aesbtestval01.jtl.local/test4pvv/api/log/message?count=200
+name: PVV Message - aesbtestval01
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651131522716.1875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

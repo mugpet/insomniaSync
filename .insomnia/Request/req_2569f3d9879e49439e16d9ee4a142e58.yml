@@ -1,0 +1,25 @@
+_id: req_2569f3d9879e49439e16d9ee4a142e58
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1654083219446
+created: 1654080339883
+url: http://localhost//BdkEsb.TestStub.PVV/api/testset/details?testsetid=ESBTest_CIL1&testid=CIL1&serviceid=FS002_PointHeating&operationid=FSO003_StatusReport&dataid=TemplateData
+name: PVV Testset/details
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651379585293.8438
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

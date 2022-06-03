@@ -1,0 +1,25 @@
+_id: req_6ddc1ac2a7e44c319ce009204e42ee8b
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1652708315300
+created: 1652708179146
+url: http://localhost/BdkEsb.TestStub.PVV/api/log/error?count=200
+name: PVV Log
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651344147782.75
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

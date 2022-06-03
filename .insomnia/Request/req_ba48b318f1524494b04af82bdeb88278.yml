@@ -1,0 +1,25 @@
+_id: req_ba48b318f1524494b04af82bdeb88278
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1654147539127
+created: 1654080308622
+url: http://aesbtestval01.jtl.local/test3pvv/api/testset/details?testsetid=ESBTest_CIL1&testid=CIL1&serviceid=FS002_PointHeating&operationid=FSO003_StatusReport&dataid=TemplateData
+name: PVV Testset/details - aesbtestval01
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651415022804.9375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

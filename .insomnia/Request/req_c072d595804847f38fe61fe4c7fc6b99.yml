@@ -1,0 +1,25 @@
+_id: req_c072d595804847f38fe61fe4c7fc6b99
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1654077353052
+created: 1654076524389
+url: http://aesbtestval01.jtl.local/test4pvv/api/testset
+name: PVV Testset - aesbtestval01
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651485897827.125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

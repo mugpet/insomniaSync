@@ -1,0 +1,25 @@
+_id: req_8710f2cc469249669dfe6977e3893bd1
+type: Request
+parentId: wrk_e6950c8c11734731a526f419d7042677
+modified: 1652854954925
+created: 1652854894995
+url: http://localhost/BdkEsb.TestStub.PVV/api/log/message?count=200
+name: PVV Message
+description: |-
+  Works and returns values
+
+
+  http://localhost/BdkEsb.TestStub.PVV/api/testset
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1651202397738.375
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
